@@ -26,7 +26,13 @@ Mechanical properties of materials is subjected to significant degradation under
 ****How to use****
 
 Before use: 
-1. Please install gcc/g++ for the newest version (c++11 or newer)
+1. Please install gcc/g++ for the newest version (c++11 or newer).
 2. Please either unzip eigen3 library and put it into src directory, or install eigen3 in local computer.
 
-Open terminal and type "make" in "src" or "src_creep" 
+Open terminal and type "make" under "src" or "src_creep" directory, then and executable file named "cpscdexe" will be generated. Run the simulations using command "./cpscdexe".
+
+
+****Program Structure****
+
+There are two folders:
+1. 
