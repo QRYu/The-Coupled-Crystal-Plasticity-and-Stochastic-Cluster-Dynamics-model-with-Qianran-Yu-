@@ -22,3 +22,9 @@ Mechanical properties of materials is subjected to significant degradation under
 [1] Qianran Yu, Sabyasachi Chatterjee, Kenneth J. Roche, Giacomo Po and Jaime Marian, “Coupling crystal plasticity and stochastic cluster dynamics models of irradiation damage in tungsten,” Modeling and Simulation in Materials Science and Engineering. 29, 055021 (2021) (link: https://iopscience.iop.org/article/10.1088/1361-651X/ac01ba)
 
 [2] Qianran Yu, Sabyasachi Chatterjee, Giacomo Po, Jaime Marian, “Simulations of irradiation creep in ferritic materials under DEMO first-wall operation con- dition,” (processing).
+
+****How to use****
+
+Before use: 
+1. Please install gcc/g++ for the newest version (c++11 or newer)
+2. Please either unzip eigen library and put it into src directory or install eigen  
