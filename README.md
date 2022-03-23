@@ -43,5 +43,7 @@ There are two folders:
 - deformationGradiant.cpp/deformationGradient.hpp: all functions relavent to crystal plasticity formulation.
 - slipSystem.cpp/slipSystem.h: store information of slip systems.
 
+****Input files****
 
+The same as SRSCD code.
 
