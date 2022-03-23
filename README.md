@@ -39,5 +39,9 @@ There are two folders:
 1. "src": the CP/SCD version that simulates concurrent irradiation/straining under uniaxial loading condition of self-ion tungsten.
 2. "src_creep": the version that simulates irradition creep behavior of neutron irradiated Fe system.
 
-- SCD relavant files: see https://github.com/QRYu/Spatially-Resolved-Stochastic-Cluster-Dynamics-SRSCD-simulator-with-Qianran-Yu-.git for details
-- 
+- SCD relavant files: please see https://github.com/QRYu/Spatially-Resolved-Stochastic-Cluster-Dynamics-SRSCD-simulator-with-Qianran-Yu-.git for details.
+- deformationGradiant.cpp/deformationGradient.hpp: all functions relavent to crystal plasticity formulation.
+- slipSystem.cpp/slipSystem.h: store information of slip systems.
+
+
+
