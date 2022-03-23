@@ -17,3 +17,8 @@ Jaime Marian (jmarian@ucla.edu)
 
 ****Introduction****
 
+Mechanical properties of materials is subjected to significant degradation under irradiation condition. In CP/SCD model, we coupled a dislocation-mediated crystal plasticity (CP) formulation with the one-point stochastic cluster dynamics method (SCD). The SCD method simulates the microstructure evolutions during irradiation, and the CP model deals with the stress-strain correlations. This code has been used to study irradiation hardening under uniaxial loading condition and high dose irradiation creep behaviors. Please see the following journal papers for details:
+
+[1] Qianran Yu, Sabyasachi Chatterjee, Kenneth J. Roche, Giacomo Po and Jaime Marian, “Coupling crystal plasticity and stochastic cluster dynamics models of irradiation damage in tungsten,” Modeling and Simulation in Materials Science and Engineering. 29, 055021 (2021) (link: https://iopscience.iop.org/article/10.1088/1361-651X/ac01ba)
+
+[2] Qianran Yu, Sabyasachi Chatterjee, Giacomo Po, Jaime Marian, “Simulations of irradiation creep in ferritic materials under DEMO first-wall operation con- dition,” (processing).
