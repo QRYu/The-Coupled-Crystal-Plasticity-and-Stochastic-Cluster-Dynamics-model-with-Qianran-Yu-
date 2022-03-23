@@ -27,4 +27,6 @@ Mechanical properties of materials is subjected to significant degradation under
 
 Before use: 
 1. Please install gcc/g++ for the newest version (c++11 or newer)
-2. Please either unzip eigen library and put it into src directory or install eigen  
+2. Please either unzip eigen3 library and put it into src directory, or install eigen3 in local computer.
+
+Open terminal and type "make" in "src" or "src_creep" 
