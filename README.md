@@ -35,4 +35,9 @@ Open terminal and type "make" under "src" or "src_creep" directory, then and exe
 ****Program Structure****
 
 There are two folders:
-1. 
+
+1. "src": the CP/SCD version that simulates concurrent irradiation/straining under uniaxial loading condition of self-ion tungsten.
+2. "src_creep": the version that simulates irradition creep behavior of neutron irradiated Fe system.
+
+- SCD relavant files: see https://github.com/QRYu/Spatially-Resolved-Stochastic-Cluster-Dynamics-SRSCD-simulator-with-Qianran-Yu-.git for details
+- 
